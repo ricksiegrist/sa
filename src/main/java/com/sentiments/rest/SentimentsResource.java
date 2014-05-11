@@ -12,7 +12,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 
-import twitter4j.Status;
+//import twitter4j.Status;
 
 import com.sentiments.analyzers.SentimentAnalyzer;
 import com.sentiments.analyzers.TweetWithSentiment;
